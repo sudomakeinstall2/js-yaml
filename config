@@ -1,3 +1,5 @@
 pathToExecutable: fuzz.js
 args: ""
 lang: js
+
+
