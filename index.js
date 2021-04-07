@@ -1,6 +1,5 @@
 'use strict';
 
-
 var loader = require('./lib/loader');
 var dumper = require('./lib/dumper');
 
