@@ -11,7 +11,6 @@ function renamed(from, to) {
   };
 }
 
-
 module.exports.Type                = require('./lib/type');
 module.exports.Schema              = require('./lib/schema');
 module.exports.FAILSAFE_SCHEMA     = require('./lib/schema/failsafe');
