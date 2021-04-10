@@ -1,4 +1,5 @@
 const yaml = require('./index.js');
+
 function fuzz(buff){
    try{
        var doc = yaml.load(buff);
@@ -9,6 +10,7 @@ function fuzz(buff){
      }
    }
 }
+
 module.exports = {
    fuzz
 };
